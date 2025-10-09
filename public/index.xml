@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on E-Trico</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>nl-BE</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -48,7 +48,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;&#xA;&lt;p&gt;Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;contacteer-e-trico-voor-meer-informatie&#34;&gt;Contacteer E-Trico voor meer informatie&lt;/h1&gt;&#xA;&lt;p&gt;Neem gerust contact met ons op, onze klantenservice staat 24/7 voor u klaar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
@@ -56,6 +56,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/faq/</guid>
       <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;&#xA;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informatievideos</title>
+      <link>http://localhost:1313/informatievideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/informatievideos/</guid>
+      <description>&lt;p&gt;Hier kunt U alle videos terugvinden die U zullen helpen uw E-Trico alarminstallatie maximaal te gebruiken en instellen.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/TnQsZPk93FA?si=AQwdBRyDDfI30geS&#34;&gt;Datum instellen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/a5uQMwRMHcs?si=ziCEt3qH_FYTRGGT&#34;&gt;Helderheid codeklavier aanpassen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/FGBhQbmPwH8?si=0e4usVJhmb0rsz4c&#34;&gt;Code alarm aanpassen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>

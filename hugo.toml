@@ -2,9 +2,9 @@ baseurl = "https://www.e-trico.be" # Configure URL. if using gh-pages https://gi
 title = "E-Trico"
 theme = "hugo-universal-theme"
 themesDir = "themes"
-languageCode = "en-us"
+languageCode = "nl-BE"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "nl"
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
@@ -33,22 +33,16 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Beveiligingsoplossingen"
-    identifier = "menu.beveiligingsoplossingen"
-    url        = "/beveiligingsoplossingen/"
-    weight     = 2
-
-[[menu.main]]
     name       = "Informatievideos"
     identifier = "menu.informatievideos"
     url        = "/informatievideos/"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 4
+    weight     = 3
 
 
 # Top bar social links menu
@@ -121,8 +115,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Een passie voor service en technologie in dienst van uw veiligheid.</p>"
+    copyright = "Copyright (c) 2025, E-Trico; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -130,18 +124,16 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "E-Trico"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p class="text-uppercase"><strong>E-Trico</strong>
+        <br>Alarmstraat 42
+        <br>9400 Okegem
+        <br>Beglium
         <br>
-        <strong>Great Britain</strong>
       </p>
       """
 
