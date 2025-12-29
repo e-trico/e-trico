@@ -116,7 +116,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Een passie voor service en technologie in dienst van uw veiligheid.</p>"
-    text = "<p>Vergunde onderneming voor alarmsystemen en camerasystemen volgens KBO 0786767097</p>"
+    vergunning = "<p>Vergunde onderneming voor alarmsystemen en camerasystemen volgens KBO 0786767097</p>"
     copyright = "Copyright (c) 2025, E-Trico; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -146,7 +146,7 @@ pluralizelisttitles = false
     enable = true
     text = """<p class="hidden-sm hidden-xs"></p>
       <p class="hidden-md hidden-lg"><a href="tel:+32 478 93 83 13" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:info@e-trica.be" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:info@e-trico.be" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
